@@ -1,0 +1,16 @@
+{
+  "scripts": {
+    "build": "webpack",
+    "watch": "webpack --hide-modules --progress --watch"
+  },
+  "devDependencies": {
+    "css-loader": "^0.28.9",
+    "csv-loader": "^2.1.1",
+    "file-loader": "^1.1.11",
+    "style-loader": "^0.20.1",
+    "xml-loader": "^1.2.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4"
+  }
+}
